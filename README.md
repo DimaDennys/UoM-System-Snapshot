@@ -47,6 +47,6 @@ This script uses built-in Windows commands like wmic, net, systeminfo, and ipcon
 Output is displayed in the terminal; you can redirect it to a file if needed:
 
 system_snapshot.bat > system_snapshot_%timestamp%.txt
-
+ps_system_snapshot.ps1 > system_snapshot_%timestamp%.txt
 📜 License
 This project is open-source and available under the MIT License.
